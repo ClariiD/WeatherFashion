@@ -1,0 +1,29 @@
+head{				  
+		width: 100%;
+		font-family: 'EB Garamond', serif;
+}
+
+body{			
+		 width: 100%;
+}
+
+div#Data{
+
+		width: 100%;
+		font-family: 'EB Garamond', serif;
+		font-size: 75px;
+		display: block;
+   	    margin: 30px auto 0;
+   	    left: 40%;
+   	    position: relative;
+        
+}
+
+section#img{
+	
+		width: 100%;
+		display: block;
+		margin-left: center;
+		margin-right: auto,0;
+
+}
